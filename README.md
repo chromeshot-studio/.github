@@ -1,5 +1,15 @@
 <img src="https://github.com/chromeshot-studio/.github/blob/main/assets/chromeshot/cs_banner.png" width="100%">
 
+---
+
+<h1> Overveiw </h1>
+
+- [About us](#about-us)
+- [PROJECT Eclipse](#project-eclipse)
+- [PROJECT Horizon](#project-horizon)
+- [Our links](#our-links)
+- [Everything used](#everything-used)
+
 <div align="center">
 
 <br>
@@ -8,7 +18,7 @@
 
 <br>
 
-<h1> About us </h1>
+<h1>About us</h1>
 
 CHROMESHOT Studio is an indie software and graphics lab specializing in real-time rendering, custom Vulkan/OpenGL engines, and developer tools — including the Moonflare PBR shaders and VEO 3 vulkan engine.
 
@@ -135,3 +145,20 @@ This project contains all of our tools for developers.
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/sepv2.png" width="100%">
+
+---
+
+<h1 align="center">Contributors</h1>
+<div align="center">
+  
+  ### Head of Development & Management: 
+  [@nowyback](https://github.com/nowyback)
+
+  ### Technical Director: 
+  [@haecker.3](https://github.com/xylophonebusiness-netizen)
+
+</div>
