@@ -1,5 +1,7 @@
 <img src="https://github.com/chromeshot-studio/.github/blob/main/assets/chromeshot/cs_banner.png" width="100%">
 
+<div align="center">
+
 <br>
 
 ---
@@ -17,11 +19,13 @@ For technical support or bug reports, please open a ticket on our official Disco
 Founded 26.03.2026 by @nowyback.
 © 2026 CHROMESHOT Studio. All rights reserved.
 
+</div>
+
 ---
 
 <img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/pe.png" width="100%">
 
-# PROJECT Eclipse
+<h1 align="center">PROJECT Eclipse</h1>
 
 This project contains all rendering based projects.
 
@@ -43,9 +47,9 @@ This project contains all rendering based projects.
 
 <img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/pho.png" width="100%">
 
-# PROJECT Horizon
+<h1 align="center">PROJECT Horizon</h1>
 
-This project contains all rendering based projects.
+This project contains all of our tools for developers.
 
 - [Rooter Dev Tools](https://github.com/chromeshot-studio/rooter)
 
@@ -131,4 +135,3 @@ This project contains all rendering based projects.
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
   </a>
 </p>
-
