@@ -33,7 +33,7 @@ Founded 26.03.2026 by @nowyback.
 
 ---
 
-<img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/pe.png" width="100%">
+<img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/pev2.png" width="100%">
 
 <h1 align="center">PROJECT Eclipse</h1>
 
