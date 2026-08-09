@@ -60,7 +60,7 @@ This project contains all of our tools for developers.
 
 ---
 
-<img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/seperator.png" width="100%">
+<img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/seperator.png" width="70%">
 
 ---
 
@@ -89,7 +89,7 @@ This project contains all of our tools for developers.
 
 ---
 
-<img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/seperator.png" width="100%">
+<img src="https://github.com/chromeshot-studio/.github/blob/main/assets/other/seperator.png" width="70%">
 
 ---
 
